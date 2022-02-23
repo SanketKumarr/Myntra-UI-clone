@@ -1,0 +1,24 @@
+{
+  "stdData": [
+    {
+      "imgUrl": "assets/images/studio/influencers/infl_6.jpg",
+      "name" : "A"
+    },
+    {
+      "imgUrl": "assets/images/studio/influencers/infl_7.jpg",
+      "name" : "B"
+    },
+    {
+      "imgUrl": "assets/images/studio/influencers/infl_8.jpg",
+      "name" : "C"
+    },
+    {
+      "imgUrl": "assets/images/studio/influencers/infl_4.jpg",
+      "name" : "D"
+    },
+    {
+      "imgUrl": "assets/images/studio/influencers/infl_9.jpg",
+      "name" : "E"
+    }
+  ]
+}
